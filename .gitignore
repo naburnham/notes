@@ -1,2 +1,5 @@
 # Ignore the build executable
 notes
+
+# Ignore .env variables
+.env
